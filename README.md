@@ -1,8 +1,8 @@
-# This is Airmen Coders website repo
+# This is Space Coders website repo
 
-We are a group of U.S. Air Force Airmen who use code to improve the lives of our fellow Airmen.
+We are a group of U.S. Space Force members who use code to improve the lives of our fellow members.
 
-![Airmen Coders logo with #BuiltByAirmen](/assets/images/AirmenCodersFull.png)
+![Space Coders logo ](/assets/images/SpaceCoders_Logo.png)
 
 
 
@@ -13,7 +13,7 @@ We are a group of U.S. Air Force Airmen who use code to improve the lives of our
 
 
 ## Team Guidelines
-* We build code to help Airmen, they are our customers not our OPRs/EPRs!
+* We build code to help Space Force members, they are our customers not our OPRs/EPRs!
 * We open source as much as possible [cio.gov](https://sourcecode.cio.gov/OSS/) [code.mil](https://code.mil)
 * We are responsible users of existing open source code
 * We help each other
