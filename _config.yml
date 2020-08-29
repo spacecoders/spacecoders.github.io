@@ -1,4 +1,4 @@
-title: Airmen Coders
+title: Space Coders
 logo: "/assets/images/ACLogoSmallWhiteBG.png"
 
 
@@ -43,16 +43,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Airmen Coders"
+  name   : "Space Coders"
   avatar : "/assets/images/AirmenCodersFull.png"
-  bio    : "Enabling any Airmen to code"
+  bio    : "Enabling the Space Force's members to code"
 
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AirmenCoders"
+      url: "https://github.com/SpaceCoders"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/company/airmencoders/"
