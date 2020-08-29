@@ -2,7 +2,7 @@
 
 We are a group of U.S. Space Force members who use code to improve the lives of our fellow members.
 
-![Space Coders logo ](/assets/images/SpaceCoders_Logo.png)
+![Space Coders logo ](/images/SpaceCoders_Logo.png)
 
 
 
