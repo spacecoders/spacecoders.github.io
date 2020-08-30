@@ -21,11 +21,11 @@ feature_row:
   
 We are a group of U.S. Air Force Airmen who use code to improve the lives of our fellow Airmen.
 
-![Airmen Coders logo with #BuiltByAirmen](/assets/images/AirmenCodersFull500x276.png){: .align-center}
+![Space Coders](/assets/images/SpaceCoders_Logo.png){: .align-center}
 {% include feature_row %}
 
 ## Team Guidelines
-* We build code to help Airmen, they are our customers not our OPRs/EPRs!
+* We build code to help our fellow Space Force members, they are our customers not our OPRs/EPRs!
 * We open source as much as possible [cio.gov](https://sourcecode.cio.gov/OSS/) [code.mil](https://code.mil)
 * We are responsible users of existing open source code
 * We help each other
