@@ -1,11 +1,11 @@
 title: Space Coders
-logo: "/assets/images/ACLogoSmallWhiteBG.png"
+logo: "/assets/images/SpaceCoders_Logo.png"
 
 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Airmen Coders - #BuiltByAirmen
-subtitle: "#BuiltByAirmen"
+  Space Coders - #BuiltByAirmen
+subtitle: "#BuiltByTheForce"
 minimal_mistakes_skin: default
 search: true
 
@@ -44,7 +44,7 @@ plugins:
 
 author:
   name   : "Space Coders"
-  avatar : "/assets/images/AirmenCodersFull.png"
+  avatar : "/assets/images/SpaceCoders_Logo.png"
   bio    : "Enabling the Space Force's members to code"
 
 
