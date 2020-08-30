@@ -1,11 +1,8 @@
 ---
 permalink: /internships/
-title: "AF Coding Internships"
+title: "Space Force Coding Internships"
 toc: true
 ---
-  
-  
-**First cohort full! Thanks for the great response.**
   
 
 
@@ -38,21 +35,11 @@ Multiple AF Software Factories are offering internships this spring/summer to mo
 
 
 ### Participating Units
-* [Kessel Run](https://kesselrun.af.mil)
-* [Platform One](https://software.af.mil/team/platformone/)
-* [LevelUP](https://software.af.mil/softwarefactory/platform-one-by-levelup/)
-* [Corsair Ranch](https://corsairranch.io)
-* [BESPIN](https://software.af.mil/softwarefactory/bespin/)
 * [Space CAMP](https://software.af.mil/softwarefactory/spacecamp/)
+* [Platform One](https://software.af.mil/team/platformone/)
 * [TRON](https://tronaf.dev)
+* [Airmen Coders](https://airmencoders.us)
     
-### Program Details
-[Platform 1 & Nodes](/internships/p1/){: .btn .btn--info}  
-This includes Platform One, SpaceCAMP, LevelUP, TRON, & Corsair Ranch.
 
-[BESPIN](/internships/bespin/){: .btn .btn--info}
-
-[Kessel Run](https://kesselrun.bamboohr.com/jobs/view.php?id=83){: .btn .btn--info}
-    
 
 
