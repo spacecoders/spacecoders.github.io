@@ -1,5 +1,5 @@
 ---
-permalink: /internships/
+permalink: /SDI/
 title: "Space Force Software Development Immersive"
 toc: true
 ---
