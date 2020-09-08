@@ -7,7 +7,7 @@ toc: true
 
 
 Fellow Coders,
-Multiple AF Software Factories are offering internships this spring/summer to motivated Airmen who want to boost their development skills. 
+We are offering a software development immersive this October to motivated Space Force members who want to boost their development skills. 
 
 **Who:** Anyone in the DoD, we are focusing on USSF members for this cohort.  
 **What:** Software development experience to boost your skills.
