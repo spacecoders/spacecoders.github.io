@@ -27,7 +27,7 @@ Multiple AF Software Factories are offering internships this spring/summer to mo
 * 19 October Immersive begins
 
 ### Supra Coders Poster
- ![Info Poster](assets/docs/USSF software development immersive.pdf)
+ ![Info Poster](assets/images/USSFSoftwareDevImmersiveFlyer.PNG)
 
 
 ### Participating Units
