@@ -1,4 +1,4 @@
-# This is Space Coders website repo
+# This is Supra Coders website repo
 
 We are a group of U.S. Space Force members who use code to improve the lives of our fellow members.
 
