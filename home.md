@@ -21,7 +21,7 @@ feature_row:
   
 We are a group of U.S. Air Force Airmen who use code to improve the lives of our fellow Airmen.
 
-![Space Coders](/assets/images/SpaceCoders_Logo.png){: .align-center}
+![Supra Coders](/assets/images/SpaceCoders_Logo.png){: .align-center}
 {% include feature_row %}
 
 ## Team Guidelines
