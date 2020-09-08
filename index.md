@@ -19,7 +19,7 @@ feature_row:
 ---
   
 <br /><br />
-![Space Coders Logo](/assets/images/SpaceCoders_Logo.png){: .align-center}  
+![Space Coders Logo](/assets/images/delta.png){: .align-center}  
 
 <p align="center">We are a group of U.S. Space Force members who use code to improve the lives of our fellow members.</p>
 <br /><br />
