@@ -1,5 +1,5 @@
 title: Supra Coders
-logo: "/assets/images/SpaceCoders_Logo.png"
+logo: "assets/images/delta.png"
 
 
 email:
@@ -44,7 +44,7 @@ plugins:
 
 author:
   name   : "Space Coders"
-  avatar : "/assets/images/SpaceCoders_Logo.png"
+  avatar : "/assets/images/delta.png"
   bio    : "Enabling the Space Force's members to code"
 
 
