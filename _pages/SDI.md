@@ -15,7 +15,8 @@ We are offering a software development immersive this October to motivated Space
 **Where:** Full time virtual.  
 **Why:** Software touches everything we do in the military and we believe this is a great oppurtunity to improve our collective skills and knowledge. Learn more about the Air Force's overall software efforts here: <https://software.af.mil>.  
 
-[APPLY HERE](#insert link){: .btn .btn--success}  [AMA Q&A](https://docs.google.com/document/d/1NwCyP9VU-_hMBIxS-ybHW4dczB6aXrF7UVgjoUVEikA/){: .btn .btn--info} [AMA Slides](/assets/docs/2020-04-24-InternshipSlideDeck.pdf){: .btn .btn--info}
+[APPLY HERE](https://auth.galvanize.com/register?uid=785290cba96b236082){: .btn .btn--success}  
+
 
 
 ### Timeline
