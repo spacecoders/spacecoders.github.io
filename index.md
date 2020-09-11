@@ -11,7 +11,7 @@ feature_row:
     url: "/learn/"
     btn_label: "Start Learning"
     btn_class: "btn--inverse"
-  - title: "AF Software"
+  - title: "Other Software Efforts"
     excerpt: "Learn more about the Air Force's software goals and enabling platforms on the Chief Software Officer's website."
     url: "https://software.af.mil"
     btn_label: "CSO Website"
@@ -47,4 +47,4 @@ feature_row:
 
 
 ## Have questions or want to join us?
-Send an email to AirmenCoders [at] us.af.mil, we would love to hear from you!
+Send an email to Supra.coders [at] afwerx.af.mil, we would love to hear from you!
