@@ -32,7 +32,7 @@ We are offering a Software Development Immersive this October to motivated Space
 * 19 October Immersive begins
 
 ### Supra Coders Poster
- ![Info Poster](/assets/images/USSFSoftwareDevImmersiveFlyer.PNG)
+ ![Info Poster](/assets/images/SDIFlyer.PNG)
 
 
 ### Participating Units
