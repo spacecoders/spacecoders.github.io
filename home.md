@@ -11,16 +11,13 @@ feature_row:
     url: "/learn/"
     btn_label: "Start Learning"
     btn_class: "btn--inverse"
-  - title: "AF Software"
+  - title: "Other Software Efforts"
     excerpt: "Learn more about the Air Force's software goals and enabling platforms on the Chief Software Officer's website."
     url: "https://software.af.mil"
     btn_label: "CSO Website"
     btn_class: "btn--inverse"
 ---
   
-  
-We are a group of U.S. Air Force Airmen who use code to improve the lives of our fellow Airmen.
-
 ![Supra Coders](assets/images/delta.png){: .align-center}
 {% include feature_row %}
 
@@ -32,5 +29,5 @@ We are a group of U.S. Air Force Airmen who use code to improve the lives of our
 
 
 ## Have questions or want to join us?
-Send an email to AirmenCoders [at] us.af.mil, we would love to hear from you!
+Look at the "SDI" tab for the link to "Apply Now!" or send an email to supra.coders[at]afwerx.af.mil, we would love to hear from you!
 
