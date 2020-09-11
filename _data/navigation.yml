@@ -5,5 +5,5 @@ main:
 side:
     - title: Get Started
       children:
-        - title: "SDI"
+        - title: "Software Development Immersive"
           url: "/SDI"
