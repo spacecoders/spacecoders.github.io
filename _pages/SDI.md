@@ -43,6 +43,6 @@ We are offering a Software Development Immersive this October to motivated Space
     
 ### Frequently Asked Questions
 
-![AMA Fall 2020](/assets/docs/USSF%20Software%20Development%20Immersive%20AMA.pdf)
+ <a href="https://supracoders.us/assets/docs/USSF Software Development Immersive AMA.pdf" target="_blank">2 Oct 2020 AMA</a>
 
 
