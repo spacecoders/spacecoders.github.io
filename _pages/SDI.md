@@ -41,6 +41,8 @@ We are offering a Software Development Immersive this October to motivated Space
 * [TronGov](https://tronaf.dev)
 * [Airmen Coders](https://airmencoders.us)
     
+### Frequently Asked Questions
 
+![AMA Fall 2020](/assets/docs/USSF%20Software%20Development%20Immersive%20AMA.pdf)
 
 
