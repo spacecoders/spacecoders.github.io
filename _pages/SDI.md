@@ -44,7 +44,9 @@ We are offering a Software Development Immersive this October to motivated Space
 ### Frequently Asked Questions
 
 Fellow Coders, The slides and questions with answers from the 2 Oct 2020 AMA have been posted. Check them out here:
+
  <a href="https://supracoders.us/assets/docs/USSF Software Development Immersive AMA.pdf" target="_blank">2 Oct 2020 AMA Slides</a>
+
  <a href="https://supracoders.us/assets/docs/USSF SDI AMA 2Oct20.pdf" target="_blank">2 Oct 2020 AMA Q&A</a>
 
 
